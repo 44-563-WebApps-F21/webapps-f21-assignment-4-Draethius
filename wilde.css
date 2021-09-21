@@ -34,6 +34,7 @@
     padding: 10px;
     margin: 10px;
 }
-.tr:nth-child(even){
+.tr:nth-child(odd){
     background-color: black;
+    color: white;
 }
