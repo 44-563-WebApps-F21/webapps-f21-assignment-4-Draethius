@@ -1,0 +1,29 @@
+.speech{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: black;    
+}
+
+.stage-direction{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: black;
+    background-color: lightblue;
+    
+}
+.stage-direction:hover{
+    color: red;
+    background-color: blueviolet;
+}
+
+.name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: black;
+}
+.lordgoring{
+    color:red;
+}
+.sirrobert{
+    color:green;
+}
