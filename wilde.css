@@ -24,11 +24,22 @@
 .lordgoring{
     color:red;
 }
+.lordgoring:hover{
+    text-shadow: 1px 1px green;
+    border: 1px solid black;
+    border-style: dotted;
+}
 .sirrobert{
     color:green;
 }
+.sirrobert:hover{
+    text-shadow: 1px 1px red;
+    border: 1px solid black;
+    border-style: dotted;
+}
 .tableclass{
-    border: firebrick;
+    border: 1px solid black;
+    border-radius: 10px;
     color: black;
     text-align: center;
     padding: 10px;
